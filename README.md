@@ -10,6 +10,8 @@ This repository stores our Capstone Project and solutions for all problems in th
 
 ## Latest
 
+- 02/26/2022: Init repository
+
 ## Member
 
 |Order|    Member         |  ID        | Role 
@@ -17,8 +19,8 @@ This repository stores our Capstone Project and solutions for all problems in th
 |1    |    [Dung B.Ngoc](https://github.com/buidung2004/)     |  19521385  | Leader
 |2    |    [Minh N.Dang](https://github.com/ELO102)    |  19520164  | Member
 |3    |    [Nguyen T.Huu](https://github.com/tramhuunguyen)      |  19521921  | Member
-|4    |    [Nguyen T.Huu](https://github.com/tramhuunguyen)      |  19521921  | Member
-|5    |    [Nguyen T.Huu](https://github.com/tramhuunguyen)      |  19521921  | Member
+|4    |    [Phuoc L.Van](https://github.com/)      |  19522054  | Member
+|5    |    [Thoai N.](https://github.com/)      |  19522298  | Member
 
 ## Status of repository
 
